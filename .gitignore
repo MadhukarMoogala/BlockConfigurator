@@ -363,3 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 /BlockConfigurator/appsettings.user.json
 /BlockConfigurator/appsettings.user.json
+/BlockConfigurator/wwwroot/main.js
+/BlockConfigurator/appsettings.user.json
