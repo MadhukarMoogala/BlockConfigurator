@@ -1,0 +1,13 @@
+﻿#overlay {
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1em;
+    display: none;
+}
+
+#overlay > .notification {
+    margin: auto;
+    padding: 1em;
+    max-width: 50%;
+    background: white;
+}
